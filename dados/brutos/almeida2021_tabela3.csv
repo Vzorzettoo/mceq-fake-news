@@ -1,0 +1,3 @@
+modelo,n_falsas,n_nao_falsas,falsos_negativos,falsos_positivos
+SVM linear,471,290,191,46
+Naive Bayes multinomial,471,290,458,0
